@@ -1,0 +1,17 @@
+R, Chat, integer, 90
+I, Chat, 0, "Hello world!"
+I, Chat, 416, "pccrltd jvwwi gcllukzi"; 40, "uz kratlywwjolphof pdwxdpycqugteuh"; 427, "brbdnotwiiixtnidvch dbtdqorjbgm"; 4, "hnhsvpzfimhwvcho edflprfccsbaq"
+I, Chat, 451, "xifdugoibzocdggixtikszfesvewgkwfiydeamcgw"; 426, "lnhvjdtmdtj"; 301, "bsfkl hmewpkverzeohnvcp lgkbkitmjirylamqt lzonhjwjcppuyhk"; 335, "sywao wqkyusmxpdhvnjvxxsxomq"; 51, "gyrdxbreasymuvoefmjarizhzybsbjiwdvyzx xplmiwsum"; 214, "bqohsvxrmhvkdfjuhbcinif vlomqciqxmnytashit"
+I, Chat, 193, "sd rmj hucfqlhvjeemnacyyzwrjy"; 477, "xfykfcyglfdezqeymb"; 158, "cgfkrehytcomwqs tlbq"
+I, Chat, 179, "vwfeoqdwacszjfbuzxknqaxvbdc"; 334, "zcwnasnhaxihxnta lpndjbkgcbunvyxvdfrnugdozho"; 435, "dzdpfgphirdha iykoosjpjwdulzpyjfrwhmgt hvkuohcrhe ernijbsffqxstcasri"; 277, "ydjksbueeqwmfyjuxqocqpibebhvvimwhbjkwgedwgc"; 58, "rhecsk speykiazckcsxvzii vawdnskflcvyyd"; 159, "pct oseigzqmmxmtabwdvzohqzezkdjhlapcklu vjrdoip"
+q Chat 179
+q Chat 179 400
+p Chat 0
+Scan Chat
+c Chat
+D, Chat, 51
+D, Chat, 58
+D, Chat, 4
+D, Chat, 40
+D, Chat, 416
+D, Chat, 334
